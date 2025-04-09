@@ -1,4 +1,12 @@
-## Hi there 👋
+<h1> Hi there 👋 I'm Krzysztof Manczak!</h1>
+ 
+<h2>🎓 About Me:</h2>
+<p>I'm a 3rd-year bachelor student in Camputer Science at the University of Agder (Grimstad). </p>
+<br>
+ 
+<h3>🔭 Projects:</h3>
+ I’m passionate about development and business technology. My current goal is to increase my knowledge about backend development.
+ I’m currently working on a SPF application
 
 <!--
 **Kr1sKros/Kr1sKros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

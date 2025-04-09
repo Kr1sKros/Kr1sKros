@@ -26,14 +26,11 @@ Outside of university, I work with **graphic design** and **UI/UX** at **Learnla
 <p>
   <img src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C%23/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/-Adobe-FF0000?style=flat-square&logo=adobe&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Premiere%20Pro-9999FF?style=flat-square&logo=adobe-premiere-pro&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white" />
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />

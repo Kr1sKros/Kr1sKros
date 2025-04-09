@@ -1,11 +1,12 @@
 # Hi there 👋 I'm Krzysztof Manczak!
 
 ---
-
 🎓 **About Me:**
 
 I'm a 3rd-year bachelor student in **Computer Science** at the **University of Agder** (Grimstad), with a strong interest in both development and design.  
 Outside of university, I work with **graphic design** and **UI/UX** at **Learnlab**, combining technical skill with visual creativity.
+
+🎯 Currently migrating all my projects from Bitbucket to GitHub — stay tuned for updates!
 
 ---
 

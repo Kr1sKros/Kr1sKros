@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Krzysztof Manczak!
+# Hey there 👋 I'm Krzysztof Manczak!
 
 ---
 🎓 **About Me:**

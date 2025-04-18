@@ -20,7 +20,7 @@ Outside of university, I work with **graphic design** and **UI/UX** at **Learnla
   Includes CI/CD, Kubernetes deployment, automated testing, and staging/production environments using GitLab EE.
 
 - 🧑‍💻 **Portfolio Site**
-  - [krism.no](https://www.krism.no)
+[krism.no](https://www.krism.no)
 ---
 
 🎨 **Tools & Technologies I Use:**

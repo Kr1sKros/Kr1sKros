@@ -3,7 +3,7 @@
 ---
 🎓 **About Me:**
 
-I'm a 3rd-year bachelor student in **Software Engineer** at the **University of Agder** (Grimstad), with a strong interest in both development and design.  
+I'm a 2nd year bachelor student in **Software Engineering** at the **University of Agder** (Grimstad), with a strong interest in both development and design.  
 Outside of university, I work with **graphic design** and **UI/UX** at **Learnlab**, combining technical skill with visual creativity.
 
 🎯 Currently migrating all my projects from Bitbucket to GitHub — stay tuned for updates!

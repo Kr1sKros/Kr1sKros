@@ -19,7 +19,7 @@ Outside of university, I work with **graphic design** and **UI/UX** at **Learnla
   Leading a full DevOps pipeline design for a fictional finance company.  
   Includes CI/CD, Kubernetes deployment, automated testing, and staging/production environments using GitLab EE.
 
-- 🧑‍💻 **Portfolio Site** 👉 [krism.no](https://www.krism.no)
+- 🧑‍💻 **Portfolio Site** 
   
 ---
 

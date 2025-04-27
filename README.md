@@ -8,7 +8,19 @@ Outside of university, I work with **graphic design** and **UI/UX** at **Learnla
 
 🎯 Currently migrating all my projects from Bitbucket to GitHub — stay tuned for updates!
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kr1sKros&show_icons=true&theme=radical&hide_rank=true#gh-dark-mode-only" />
+<p align="center">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=Kr1sKros&show_icons=true&custom_title=Kr1sKros&title_color=FFA500&text_color=ffffff&icon_color=FFA500&bg_color=0D1117&hide_rank=true" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kr1sKros&layout=compact&langs_count=10&title_color=FFA500&text_color=ffffff&bg_color=0D1117" 
+  style="height: 195px; vertical-align: top;" />
+</p>
+
+
+
+
+
 
 ---
 

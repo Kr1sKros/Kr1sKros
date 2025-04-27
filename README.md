@@ -8,6 +8,8 @@ Outside of university, I work with **graphic design** and **UI/UX** at **Learnla
 
 🎯 Currently migrating all my projects from Bitbucket to GitHub — stay tuned for updates!
 
+<img src="https://github-readme-stats.vercel.app/api?username=Kr1sKros&show_icons=true&theme=radical#gh-dark-mode-only" />
+
 ---
 
 🛠 **Current Projects:**
@@ -45,7 +47,6 @@ Outside of university, I work with **graphic design** and **UI/UX** at **Learnla
   <img src="https://img.shields.io/badge/-GlowScript-FF9900?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-YAML-333?style=flat-square&logo=yaml&logoColor=white" />
 </p>
-
 ---
 
 🎨 **Outside the Code:**

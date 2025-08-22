@@ -68,6 +68,7 @@ When I’m not working on software and development, I spend time:
 - 🖌️ Painting and digital art
 - 🏋️ Weightlifting
 - 🧗 Climbing and Bouldering
+- 🚴 Cycling
 
 ---
 

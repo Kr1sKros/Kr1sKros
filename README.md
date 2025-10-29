@@ -27,15 +27,10 @@ Outside of university, I work with **graphic design** and **UI/UX** at **Learnla
 
 🛠 **Current Projects:**
 
-- 💡 **RayDar (SPF App)**  
-  A smart sunscreen assistant that sends personalized notifications based on UV index and skin protection factors.
+- Developing FrontEnd and OTEL for Sikri! 
 
-- 🔧 **DevOps Project**  
-  Leading a full DevOps pipeline design for a fictional finance company.  
-  Includes CI/CD, Kubernetes deployment, automated testing, and staging/production environments using GitLab EE.
 
-- 🧑‍💻 **Portfolio Site** 
-  
+
 ---
 
 🎨 **Tools & Technologies I Use:**

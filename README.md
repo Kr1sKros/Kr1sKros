@@ -27,7 +27,7 @@ Outside of university, I work with **graphic design** and **UI/UX** at **Learnla
 
 🛠 **Current Projects:**
 
-- Developing FrontEnd and OTEL for Sikri! 
+- Intern for Sikri (Primarly brewing coffee /s)
 
 
 

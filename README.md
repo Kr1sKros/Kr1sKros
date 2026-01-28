@@ -56,6 +56,7 @@ Outside of university, I work with **graphic design** and **UI/UX** at **Learnla
   <img src="https://img.shields.io/badge/-GlowScript-FF9900?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-YAML-333?style=flat-square&logo=yaml&logoColor=white" />
 </p>
+
 ---
 
 🎨 **Outside the Code:**

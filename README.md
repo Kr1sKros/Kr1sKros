@@ -28,6 +28,7 @@ Outside of university, I work with **graphic design** and **UI/UX** at **Learnla
 🛠 **Current Projects:**
 
 - Intern for Sikri (Primarly brewing coffee /s)
+- Writing a bachelor thesis about server side rendering vs client side rendering
 
 
 
@@ -63,7 +64,6 @@ When I’m not working on software and development, I spend time:
 - 🎸 Playing guitar
 - 🖌️ Painting and digital art
 - 🏋️ Weightlifting
-- 🧗 Climbing and Bouldering
 - 🚴 Cycling
 
 ---
